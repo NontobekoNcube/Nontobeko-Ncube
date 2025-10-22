@@ -1,13 +1,11 @@
 body {
   padding: 50px;
   font-size: small;
-  text-align: align;
 }
 header {
   background-color: whitesmoke;
   padding: 0px;
   margin-bottom: 0px;
-  font-size: small;
 }
 .tag-line {
   margin: 0px;
@@ -15,6 +13,8 @@ header {
 }
 .container {
   display: flex;
+  gap: 20px;
+  /*justify-items: center;*/
 }
 h2 {
   margin-bottom: 5px;
@@ -23,4 +23,19 @@ h2 {
   color: aqua;
   margin: 0px;
   padding: 0px;
+  font-size: medium;
+}
+.title {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+ul {
+  margin-top: 0px;
+  padding-left: 0px;
+}
+footer {
+  text-align: center;
+}
+.contact-button {
+  text-align: center;
 }
