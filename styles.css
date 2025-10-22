@@ -1,0 +1,26 @@
+body {
+  padding: 50px;
+  font-size: small;
+  text-align: align;
+}
+header {
+  background-color: whitesmoke;
+  padding: 0px;
+  margin-bottom: 0px;
+  font-size: small;
+}
+.tag-line {
+  margin: 0px;
+  padding: 0px;
+}
+.container {
+  display: flex;
+}
+h2 {
+  margin-bottom: 5px;
+}
+.subtitle {
+  color: aqua;
+  margin: 0px;
+  padding: 0px;
+}
